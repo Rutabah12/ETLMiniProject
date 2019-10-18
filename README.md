@@ -19,7 +19,7 @@ Transformation:
 ### Load:
 *  Loaded the merged data into Postgres.
 
-Challenges:
+### Challenges:
 *  The company names did not exactly match because Indeed had extra words in the company name.
 *  A pop up window was showing up unexpectedly when splinter clicked on the "next" button
 *  Scraping Indeed turned out to be more complicated than we anticipated

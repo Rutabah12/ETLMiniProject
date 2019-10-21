@@ -1,6 +1,11 @@
 ## Data Scientist job Opening in Fortune 500 Companies
 
-#### Datasources:
+### Team Members:
+* Ahmar Jamal
+* Bhavini Vyas
+* Rutabah Khan
+
+### Datasources:
 
  * Fortune 500 (csv file) from data.world
  * Job Openings from Indeed web scrapping
@@ -9,8 +14,8 @@
 To find Data Scientist job openings in Fortune 500 companies across US. The data should be rich with the information such as number of employees, revenues, job location, salary range and job description.
 
 Transformation:
-*	Pulled Fortune 500 data in pandas data frame. Get company name, revenue, number of employees.
-*	Scraped Indeed website for Data Scientist role across US for job title, company name, job location, salary, posting age.
+*  Pulled Fortune 500 data in pandas data frame. Get company name, revenue, number of employees.
+*  Scraped Indeed website for Data Scientist role across US for job title, company name, job location, salary, posting age.
 *   Loaded all data in panda dataframes.
 *   Cleaned Indeed data for complany name as it had extra words
 *   Cleaned Indeed data for junk characters
